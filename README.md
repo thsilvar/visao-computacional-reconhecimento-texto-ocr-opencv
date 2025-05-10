@@ -1,0 +1,1 @@
+# visao-computacional-reconhecimento-texto-ocr-opencv
